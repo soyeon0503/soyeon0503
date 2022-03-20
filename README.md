@@ -1,10 +1,9 @@
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20SOYEONJEON%20%20&height=200&fontSize=100)
+<center>![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20SOYEONJEON%20%20&height=200&fontSize=100)
 
 
 ##  I'm SOYEON JEON, I hope to Frontend-Engineer！！  
 
-<
 
 ## 💻  𝕞𝕪 𝕤𝕥𝕒𝕔𝕜𝕤  
 
@@ -23,5 +22,5 @@
 
 ## 💻  𝕊𝕥𝕒𝕥𝕦𝕤 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoyeon0503hit-counter&count_bg=%233D5BC8&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyeon0503&layout=compact&theme=radicul)](https://github.com/metleeha)  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=soyeon0503&show_icons=true&theme=radical)](https://github.com/{soyeon0503}/github-readme-stats)
-    
+    </center>
 
