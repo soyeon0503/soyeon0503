@@ -3,7 +3,8 @@
 <br/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoyeon0503hit-counter&count_bg=%233D5BC8&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyeon0503)](https://github.com/anuraghazra/github-readme-stats)(https://github-readme-stats.vercel.app/api/top-langs/?username=soyeon0503&layout=compact&theme=radicul)](https://github.com/metleeha)  
+[![soyeon0503's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyeon0503)](https://github.com/anuraghazra/github-readme-stats)
+[![soyeon0503's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=soyeon0503&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/soyeon0503)
 
 ## 💻  𝕞𝕪 𝕤𝕥𝕒𝕔𝕜𝕤  
 <br/>
