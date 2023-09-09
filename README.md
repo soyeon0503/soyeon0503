@@ -1,15 +1,12 @@
 
 # I'm SOYEON,  Frontend-Engineer！！😉
+
+I live in Tokyo. 
+I've been working as a web development engineer since a year ago, and I'm growing up studying frameworks or libraries!
+If there's a fun tech stack, let's study together
+
 <br/>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoyeon0503hit-counter&count_bg=%233D5BC8&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com) 
-<br />
-<br />
-[![soyeon0503's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=soyeon0503&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/soyeon0503)
-
-
-
-## 💻  𝕞𝕪 𝕤𝕥𝕒𝕔𝕜𝕤  
 <br/>
 <p align="center">
     <b>LANGUAGES</b> 
@@ -24,6 +21,15 @@
     <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
  </p>   
  <br/>
+  <p align="center">
+    <b>Study</b> 
+ </p>
+ <p align="center">
+     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
+     <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white">
+     <img src="https://img.shields.io/badge/Next.JS-000000?style=for-the-badge&logo=Next.JS&logoColor=white">
+     <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=Three.JS&logoColor=white">
+</p>
  <br/>
  <p align="center">
     <b>TOOLS</b> 
@@ -37,17 +43,4 @@
 <img src="https://img.shields.io/badge/slack-FFFFFF?style=for-the-badge&logo=slack&logoColor=blueviolet"/>
 </p>
     
-
-
-<br/>
-
-## 💻 𝕔𝕠𝕟𝕥𝕒𝕔𝕥𝕤 
-<p align="center">
-<a href = "https://github.com/soyeon0503"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-94399E.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
-</a> <a href="bless0053@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=GMAIL"/>
-</a>
-</p>
-<br/>
-
-
 
