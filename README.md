@@ -1,9 +1,8 @@
 
-# I'm SOYEON,  Frontend-Engineer！！😉
+# I'm SOYEON,  Frontend-Engineer！！
 
-I live in Tokyo. 
-I've been working as a web development engineer since a year ago, and I'm growing up studying frameworks or libraries!
-If there's a fun tech stack, let's study together
+I've been working as a web development engineer for 2 years and I'm growing up studying frameworks or libraries!
+If you have a fun skill stack, let's study together!!
 
 <br/>
 
