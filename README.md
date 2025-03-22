@@ -21,26 +21,26 @@ If you have a fun skill stack, let's study together!!
      <img src="https://img.shields.io/badge/Next.JS-000000?style=for-the-badge&logo=Next.JS&logoColor=white">
     <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=white"/>  
     <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
+    <img src="https://shields.io/badge/-PHP-3776AB?style=for-the-badge&logo=php" />
  </p>   
  <br/>
   <p align="center">
-    <b>Study</b> 
+    <b>Studing...</b> 
  </p>
  <p align="center">
      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
      <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white">
      <img src="https://img.shields.io/badge/Next.JS-000000?style=for-the-badge&logo=Next.JS&logoColor=white">
      <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=Three.JS&logoColor=white">
-     <img src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" >
-     <img src="[LARAVEL](https://img.shields.io/badge/Laravel-v10-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)" />
-
+     <img src="https://img.shields.io/badge/-NestJs-ea2845?style=for-the-badge&logo=nestjs&logoColor=white" >
+     <img src="https://img.shields.io/badge/Laravel-v10-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+     <img src="https://img.shields.io/badge/ReactNative-222222?style=for-the-badge&logo=React&logoColor=" />
 </p>
  <br/>
  <p align="center">
     <b>TOOLS</b> 
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
