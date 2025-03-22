@@ -25,13 +25,12 @@ If you have a fun skill stack, let's study together!!
  </p>   
  <br/>
   <p align="center">
-    <b>Studing...</b> 
+    <b>Studying</b> 
  </p>
  <p align="center">
      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
      <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white">
      <img src="https://img.shields.io/badge/Next.JS-000000?style=for-the-badge&logo=Next.JS&logoColor=white">
-     <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=Three.JS&logoColor=white">
      <img src="https://img.shields.io/badge/-NestJs-ea2845?style=for-the-badge&logo=nestjs&logoColor=white" >
      <img src="https://img.shields.io/badge/Laravel-v10-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
      <img src="https://img.shields.io/badge/ReactNative-222222?style=for-the-badge&logo=React&logoColor=" />
