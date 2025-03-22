@@ -1,8 +1,12 @@
 
-# I'm SOYEON,  Frontend-Engineer！！
-
-I've been working as a web development engineer for 2 years and I'm growing up studying frameworks or libraries!
-If you have a fun skill stack, let's study together!!
+# 👩‍💻 Frontend Engineer 
+Code, coffee, and countless console.logs.
+A Frontend Engineer who's been growing in the web jungle for 3 years!
+Recently, I've started exploring the backend world with Laravel & NestJS. 
+I level up with every bug I fix and every feature I ship.
+But my infra knowledge? Absolutely zero. 😵
+Infra engineers, please share your wisdom! I'm ready to learn! 👂✨
+Got an exciting tech stack? Let's explore together!!!
 
 <br/>
 
