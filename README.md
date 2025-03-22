@@ -31,6 +31,9 @@ If you have a fun skill stack, let's study together!!
      <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white">
      <img src="https://img.shields.io/badge/Next.JS-000000?style=for-the-badge&logo=Next.JS&logoColor=white">
      <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=Three.JS&logoColor=white">
+     <img src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" >
+     <img src="[LARAVEL](https://img.shields.io/badge/Laravel-v10-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)" />
+
 </p>
  <br/>
  <p align="center">
